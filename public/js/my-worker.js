@@ -1,5 +1,5 @@
 // Global Veriables 
-const APP_PREFIX = 'buget-tracker';
+const APP_PREFIX = 'budget-tracker';
 const VERSION = 'v_01';
 const CACHE_NAME = APP_PREFIX+ VERSION;
 // Files to be Cached 
